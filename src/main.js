@@ -4,7 +4,7 @@ let exec = require('child_process').exec;
 
 var myStaff = [];
 
-const myAdmin = [];
+const myAdmin = ['u2b457b1ef8391ee451c9a22c835e1e33'];
 
 const myBot = [];
 const banList = [];//Banned list
